@@ -1,5 +1,3 @@
 idhu pudhusu 
 
-idhula oru renduline add panni veipom apo dhan rebase ah check panna mudiyum
 
-last line la try pannadha ah rebase panradhuku badhila merge panniten adha ipo correct ah pannanum
